@@ -31,3 +31,7 @@ This project complies with the GPL-3.0 (GNU General Public License v3.0) agreeme
 4. 双击该脚本即可启动，若启动失败，请在 **"您的安装目录" \ v2** 中找到 **AutoHotkey64.exe** 将脚本拖到该exe文件上，即可启动
 5. 脚本使用方法请看右上角小窗描述
 
+## 效果图
+![0cf27587b92be5df4c5ed72057b8219](https://github.com/user-attachments/assets/5a7029ea-35ed-4389-82cf-9576f7165c2e)
+
+
